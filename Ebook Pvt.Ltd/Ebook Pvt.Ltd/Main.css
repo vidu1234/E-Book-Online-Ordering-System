@@ -1,0 +1,47 @@
+﻿.Banner {
+     height: 207px;
+            width: 100%;
+            margin-left: 0px;
+}
+.nav {
+    border: 1px solid White;
+    border-width: 1px 0;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color:cornflowerblue;
+}
+
+    .nav li {
+        display: inline;
+
+    }
+
+    .nav a {
+        display: inline-block;
+        padding: 10px;
+    }
+    .nav li a {
+        display: inline-block;
+        text-decoration: none;
+        color: aliceblue;
+        
+    }
+    .nav li a:hover{
+        background-color:coral;
+        color:white;
+    }
+    .nav li a.active{
+        background-color:Coral;
+    }
+    .footer{
+        height:30px;
+        background-color:cornflowerblue;
+        color:white;
+        border-radius:5px 5px 5px 5px;
+    }
+    .footer h3{
+        padding:8px;
+        text-align:center;
+    }
