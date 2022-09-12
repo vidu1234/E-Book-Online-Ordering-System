@@ -55,6 +55,29 @@ When user click on view feedback, user can view reviews from other readers of th
 
 
 
+### My Orders Page
+
+In here user can view all the orders place by him. User can also cancel those orders. 
+
+
+![Screenshot (303)](https://user-images.githubusercontent.com/65155421/189594889-a4b457a1-029b-47cc-9184-2a24b082710a.png)
+
+
+
+### My Account Page
+
+
+This my account page shows the account details of the logged in user. When user change the required text input and click the update button, the user account details will be change. 
+
+
+
+![Screenshot (304)](https://user-images.githubusercontent.com/65155421/189595093-94dc6f97-bbc2-49d4-846b-eaa37989bd7a.png)
+
+
+
+
+
+
 
 
 
